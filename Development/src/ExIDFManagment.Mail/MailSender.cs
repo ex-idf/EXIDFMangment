@@ -52,7 +52,7 @@ namespace ExIDFManagment.Mail
         {
             switch (mType)
             {
-                case MailType.WELCOME_MAIL:
+                case MailType.WELCOME_MAIL_CANDIDATE:
                     FileStream fs = new FileStream(@"WelcomeMail.txt", FileMode.Open);
                     byte[] buff = new byte[fs.Length];
                     fs.Read(buff, 0, (int)fs.Length);
@@ -65,7 +65,7 @@ namespace ExIDFManagment.Mail
 
         public enum MailType
         {
-            WELCOME_MAIL
+            WELCOME_MAIL_CANDIDATE
         }
     }
 }

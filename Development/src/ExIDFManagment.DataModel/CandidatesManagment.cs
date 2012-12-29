@@ -174,7 +174,7 @@ namespace ExIDFManagment.DataModel
                 ListDictionary replacers = new ListDictionary(); 
                 replacers.Add("<%Name%>", candidate.Name);
                 mMailSender.SendMail("office@ex-idf.com", candidate.Mail,
-                                     "מידע על EX-IDF", MailSender.MailType.WELCOME_MAIL, replacers);
+                                     "מידע על EX-IDF", MailSender.MailType.WELCOME_MAIL_CANDIDATE, replacers);
             }
         }
     }

@@ -5,3 +5,6 @@ C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment
 C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.StubModel\bin\Debug\ExIDFManagment.Interface.pdb
 C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.StubModel\obj\Debug\ExIDFManagment.StubModel.dll
 C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.StubModel\obj\Debug\ExIDFManagment.StubModel.pdb
+C:\Users\Niv\Documents\GitHub\EXIDFMangment\Development\src\ExIDFManagment.StubModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Niv\Documents\GitHub\EXIDFMangment\Development\src\ExIDFManagment.StubModel\obj\Debug\ExIDFManagment.StubModel.dll
+C:\Users\Niv\Documents\GitHub\EXIDFMangment\Development\src\ExIDFManagment.StubModel\obj\Debug\ExIDFManagment.StubModel.pdb
