@@ -1,0 +1,11 @@
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\obj\Debug\ResolveAssemblyReference.cache
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.Testing.dll
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.Testing.pdb
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.Interface.dll
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.Interface.pdb
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\obj\Debug\ExIDFManagment.Testing.dll
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\obj\Debug\ExIDFManagment.Testing.pdb
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.DataModel.dll
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.DataModel.pdb
+C:\Users\Niv\Documents\Visual Studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.Mail.dll
+C:\Users\Niv\Documents\Visual Studio 2010\Projects\ExIDFManagment\ExIDFManagment.Testing\bin\Debug\ExIDFManagment.Mail.pdb

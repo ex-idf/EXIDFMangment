@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="674A2FD0-8276-4A37-8F06-53050BEAFE44" ModuleId="ExIDFManagment.Interface" />
+  <Module PersistentId="AF3288F3-51B2-455A-A936-BE49A594FE48" ModuleId="ExIDFManagment.Testing" />
+  <Module PersistentId="CFFDC5FE-260F-481E-B642-E7397481C2D1" ModuleId="ExIDFManagment.DataModel" />
+  <Module PersistentId="7FA228A9-672C-4FC0-96BE-4452F4CC1FDB" ModuleId="ExIDFManagment" />
+  <Module PersistentId="CABE5938-416C-4440-995B-35DF08573351" ModuleId="ShowOnGridControl" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms_1" />
+  <Module PersistentId="B71669D9-43B4-4AB2-8146-6B99BDB50DEC" ModuleId="ExIDFManagment.Mail" />
+</Modules>

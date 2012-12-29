@@ -1,0 +1,5 @@
+C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Mail\bin\Debug\ExIDFManagment.Mail.dll
+C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Mail\bin\Debug\ExIDFManagment.Mail.pdb
+C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Mail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Mail\obj\Debug\ExIDFManagment.Mail.dll
+C:\Users\Niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Mail\obj\Debug\ExIDFManagment.Mail.pdb

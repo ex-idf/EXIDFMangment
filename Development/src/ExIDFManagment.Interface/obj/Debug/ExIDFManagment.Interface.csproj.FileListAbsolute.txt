@@ -1,0 +1,5 @@
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Interface\bin\Debug\ExIDFManagment.Interface.dll
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Interface\bin\Debug\ExIDFManagment.Interface.pdb
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Interface\obj\Debug\ResolveAssemblyReference.cache
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Interface\obj\Debug\ExIDFManagment.Interface.dll
+c:\users\niv\documents\visual studio 2010\Projects\ExIDFManagment\ExIDFManagment.Interface\obj\Debug\ExIDFManagment.Interface.pdb
