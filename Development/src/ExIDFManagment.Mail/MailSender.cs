@@ -65,7 +65,8 @@ namespace ExIDFManagment.Mail
 
         public enum MailType
         {
-            WELCOME_MAIL_CANDIDATE
+            WELCOME_MAIL_CANDIDATE,
+            WELCOME_MAIL_COMPANY
         }
     }
 }
